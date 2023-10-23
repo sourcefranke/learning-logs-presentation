@@ -4,6 +4,8 @@ This is a presentation about my personal process of following up on ideas and im
 
 ## [Slidev](https://github.com/slidevjs/slidev)
 
+This presentation was built and published with SliDev.
+
 To start the slide show:
 
 - `npm install`
