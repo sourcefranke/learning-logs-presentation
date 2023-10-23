@@ -9,12 +9,12 @@ layout: default
 flowchart LR
     Entered --> Started --> Finished
     
-    Started --> Paused
-    Paused --> Started
-    Paused --> Aborted
+    Started -- put at rest --> Paused
+    Paused -- return to learning item --> Started
+    Paused -- not relevant anymore --> Aborted
 
-    Started --> Aborted
-    Entered --> Aborted
+    Started -- found not useful --> Aborted
+    Entered -- priority too low --> Aborted
 ```
 </div>
 
