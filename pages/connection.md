@@ -1,6 +1,6 @@
 ---
 layout: image-right 
-image: pics/connection.png
+image: ./pics/connection.png
 ---
 
 # Personal Connection

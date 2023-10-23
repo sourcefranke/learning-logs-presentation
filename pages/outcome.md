@@ -4,6 +4,8 @@ layout: default
 
 # Outcome
 
+So many possibilities to transfer your learning achievements into some ___visible___ outcome!
+
 <div style="text-align: center">
 ```mermaid {scale: 1}
 mindmap
@@ -11,13 +13,14 @@ mindmap
     work
         project contribution
         coaching colleagues
-        working environment improvements
+        general environmental improvements
     presentation
+        conference
         bar camp
         meetup
     write an article
         public blog post
-        learning log entry
+        personal diary
     open source
         publish @ GitHub
 ```

@@ -5,16 +5,17 @@ layout: default
 # States
 
 <div style="text-align: center">
-```mermaid {scale: 1.5}
+```mermaid {scale: 1.2}
 flowchart LR
-    Entered --> Started --> Finished
+    Entered -- pick item --> Started
+    Started -- completed\nsuccessfully --> Finished
     
     Started -- put at rest --> Paused
-    Paused -- return to learning item --> Started
-    Paused -- not relevant anymore --> Aborted
+    Paused -- return to\nitem --> Started
+    Paused -- not relevant\nanymore --> Aborted
 
-    Started -- found not useful --> Aborted
-    Entered -- priority too low --> Aborted
+    Started -- found\nnot useful --> Aborted
+    Entered -- priority\ntoo low --> Aborted
 ```
 </div>
 
