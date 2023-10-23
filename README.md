@@ -2,7 +2,7 @@
 
 This is a presentation about my personal process of following up on ideas and impressions I collect throughout work, conferences, bar camps, meetups, etc.
 
-## [Slidev](https://github.com/slidevjs/slidev)!
+## [Slidev](https://github.com/slidevjs/slidev)
 
 To start the slide show:
 
