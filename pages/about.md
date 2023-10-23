@@ -11,8 +11,7 @@ layout: intro
 
 ## Presentation
 
-- built with [SliDev](https://sli.dev)
-- first held at the DigiCamp 2023 at DATEV eG
+Built with [SliDev](https://sli.dev)
 
 ## Source Code
 

@@ -36,11 +36,11 @@ src: pages/connection.md
 ---
 
 ---
-src: pages/outcome.md
+src: pages/state.md
 ---
 
 ---
-src: pages/state.md
+src: pages/outcome.md
 ---
 
 ---

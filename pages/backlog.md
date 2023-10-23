@@ -4,6 +4,8 @@ layout: default
 
 # Backlog
 
+It all started with an Excel sheet ...
+
 | **ID** | **Topic**      | **Source**              | **Date**   | ***Connection\**** | ***Outcome\**** | ***Status\**** | ... |
 |--------|----------------|-------------------------|------------|--------------------|-----------------|----------------|-----|
 | 1      | Learning Logs  | \[*this barcamp here*\] | 2023/10/15 | Project            | Diary           | Ready          |     |

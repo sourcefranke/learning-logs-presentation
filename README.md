@@ -1,4 +1,10 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# A Learning Logs Progress
+
+This is a presentation about my personal process of following up on ideas and impressions I collect throughout work, conferences, bar camps, meetups, etc.
+
+## [Slidev](https://github.com/slidevjs/slidev)
+
+This presentation was built and published with Slidev.
 
 To start the slide show:
 
