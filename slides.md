@@ -50,7 +50,3 @@ src: pages/end.md
 ---
 src: pages/about.md
 ---
-
----
-src: pages/changelog.md
----

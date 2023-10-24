@@ -7,7 +7,7 @@ layout: default
 So many possibilities to transfer your learning achievements into some ___visible___ outcome!
 
 <div style="text-align: center">
-```mermaid {scale: 1}
+```mermaid {scale: 0.9}
 mindmap
   outcome
     work
@@ -25,3 +25,5 @@ mindmap
         publish @ GitHub
 ```
 </div>
+
+By choosing __at least one__ option to make it visible (to others), you increase your own engagement!

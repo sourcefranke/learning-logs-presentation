@@ -4,9 +4,9 @@ layout: default
 
 # Process
 
-Plan of action - to face the wild horde of impressions to chase after ;-P
+Plan of action for facing the wild horde of impressions to chase after & to follow up with ;-P
 
-<div style="min-height: 50vh; display: flex; justify-content: center; align-items: center;">
+<div v-click style="min-height: 50vh; display: flex; justify-content: center; align-items: center;">
 ```mermaid {scale: 1.3}
 flowchart LR
     new[new items] -- collect --> b[(backlog)]
@@ -15,4 +15,6 @@ flowchart LR
 ```
 </div>
 
-... ok, to be honest, it reminds me a bit of scrum ...
+<div v-click>
+... and the result is something <b>Kanban</b>-like, just without teams and stakeholders
+</div>

@@ -11,7 +11,7 @@ layout: intro
 
 ## Presentation
 
-Built with [SliDev](https://sli.dev)
+Built with [Slidev](https://sli.dev)
 
 ## Source Code
 

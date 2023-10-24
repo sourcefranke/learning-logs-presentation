@@ -1,12 +1,11 @@
 ---
-layout: image-right 
-image: ./pics/connection.png
+layout: default
 ---
 
 # Personal Connection
 
-Does given topic relate to ...
-- ... my personal life?
-- ... issues to be solved or improved?
+<div style="display: flex; justify-content: center;">
+    <img src="pics/connection.png" width="400" height="400" />
+</div>
 
-## High impact on priority!
+Impact on relevance and priority!
