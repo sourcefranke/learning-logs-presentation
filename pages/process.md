@@ -6,7 +6,7 @@ layout: default
 
 Plan of action for facing the wild horde of impressions to chase after & to follow up with ;-P
 
-<div v-click style="min-height: 50vh; display: flex; justify-content: center; align-items: center;">
+<div v-click style="display: flex; justify-content: center; align-items: center;">
 ```mermaid {scale: 1.3}
 flowchart LR
     new[new items] -- collect --> b[(backlog)]
