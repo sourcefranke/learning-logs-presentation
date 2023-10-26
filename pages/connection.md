@@ -5,7 +5,7 @@ layout: default
 # Personal Connection
 
 <div style="display: flex; justify-content: center;">
-    <img src="/connection.png" width="400" height="400" />
+    <img src="/connection.png" style="width:480px; height:380px;" />
 </div>
 
-Impact on relevance and priority!
+Connection affects relevance and priority!
