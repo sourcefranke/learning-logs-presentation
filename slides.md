@@ -44,7 +44,15 @@ src: pages/outcome.md
 ---
 
 ---
-src: pages/end.md
+src: pages/now_discuss.md
+---
+
+---
+src: pages/session_discussion/2023_11_15_datev_digicamp_s1.md
+---
+
+---
+src: pages/session_discussion/2023_11_16_datev_digicamp_s2.md
 ---
 
 ---
