@@ -6,8 +6,7 @@ layout: intro
 
 ## Lukas Tietenberg
 
-- Fullstack Developer @ DATEV eG
-- Living in Nuremberg, Germany
+Fullstack Developer @ DATEV eG
 
 ## Presentation
 

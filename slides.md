@@ -20,9 +20,6 @@ How to handle so many interesting topics coming in
 </div>
 
 <div class="abs-br m-6 flex gap-2">
-  <button @click="$slidev.nav.openInEditor()" title="Open in Editor" class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
-    <carbon:edit />
-  </button>
   <a href="https://github.com/sourcefranke/learning-logs-presentation" target="_blank" alt="GitHub"
     class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
     <carbon-logo-github />
@@ -54,15 +51,17 @@ src: pages/outcome.md
 ---
 
 ---
-src: pages/now_discuss.md
+src: pages/discuss.md
 ---
 
 ---
 src: pages/session_discussion/2023_11_15_datev_digicamp_s1.md
+hide: true
 ---
 
 ---
 src: pages/session_discussion/2023_11_16_datev_digicamp_s2.md
+hide: true
 ---
 
 ---

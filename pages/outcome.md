@@ -4,7 +4,7 @@ layout: default
 
 # Outcome
 
-So many possibilities to transfer your learning achievements into some ___visible___ outcome!
+So many possibilities to transfer your learning achievements into some <u>___visible___</u> outcome!
 
 <div style="text-align: center">
 ```mermaid {scale: 0.9}
@@ -26,4 +26,4 @@ mindmap
 ```
 </div>
 
-By choosing __at least one__ option to make it visible (to others), you increase your own engagement!
+By choosing <u>__at least one__</u> option for making it visible (to others), you increase your own engagement!
