@@ -51,6 +51,10 @@ src: pages/outcome.md
 ---
 
 ---
+src: pages/time.md
+---
+
+---
 src: pages/discuss.md
 ---
 
