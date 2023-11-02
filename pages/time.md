@@ -1,6 +1,6 @@
 ---
 layout: image-right
-image: ./public/explosion.png
+image: public/explosion.png
 class: justify-center
 ---
 
