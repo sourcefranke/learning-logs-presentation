@@ -50,13 +50,21 @@ src: pages/state.md
 src: pages/outcome.md
 ---
 
----
-src: pages/time.md
----
 
 ---
-src: pages/discuss.md
+layout: image-right
+image: https://www.preisparadies.ch/images/source/Uhren/24Stundenuhr/Wanduhr24Stunden.jpg
 ---
+
+# But ... how about time?
+
+
+---
+layout: end
+---
+
+# Let's discuss!
+
 
 ---
 src: pages/session_discussion/2023_11_15_datev_digicamp_s1.md
@@ -66,8 +74,4 @@ hide: true
 ---
 src: pages/session_discussion/2023_11_16_datev_digicamp_s2.md
 hide: true
----
-
----
-src: pages/about.md
 ---
