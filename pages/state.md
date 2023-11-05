@@ -18,5 +18,3 @@ flowchart LR
     Entered -- priority\ntoo low --> Aborted
 ```
 </div>
-
-... please feel free to define your own state flow ...

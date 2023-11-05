@@ -50,14 +50,9 @@ src: pages/state.md
 src: pages/outcome.md
 ---
 
-
 ---
-layout: image-right
-image: https://www.preisparadies.ch/images/source/Uhren/24Stundenuhr/Wanduhr24Stunden.jpg
+src: pages/time.md
 ---
-
-# But ... how about time?
-
 
 ---
 layout: end
