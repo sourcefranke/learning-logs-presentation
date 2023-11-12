@@ -13,13 +13,13 @@ mindmap
     work
         project contribution
         coaching colleagues
-        general environmental improvements
-    presentation<br>e.g. with sli.dev
+        general improvements
+    session
         conference
         bar camp
         meetup
-    write an article
-        public blog post<br>e.g. with gohugo.io
+    article
+        blog post
         personal diary
 ```
 </div>
