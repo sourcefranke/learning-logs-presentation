@@ -63,7 +63,6 @@ layout: end
 
 ---
 src: pages/session_discussion/2023_11_15_datev_digicamp_s1.md
-hide: true
 ---
 
 ---

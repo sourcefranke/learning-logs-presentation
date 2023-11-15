@@ -16,5 +16,7 @@ flowchart TD
     bc[bar camps] --> me
     internet --> me
     etc[... etc.] --> me
+
+    me --> trash(many things get lost)
 ```
 </div>
