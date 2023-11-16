@@ -182,3 +182,13 @@ Discussion Points
 - Study Time Youtube Videos
 
 
+
+---
+layout: default
+---
+
+# DATEV DigiCamp @ 2023/11/16
+
+Discussion points
+
+"Obsidian", ein Tool als Alternative zu Excel: https://obsidian.md/
