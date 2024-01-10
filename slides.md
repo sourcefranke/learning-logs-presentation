@@ -20,7 +20,11 @@ How to handle so many interesting topics coming in
 </div>
 
 <div class="abs-br m-6 flex gap-2 items-baseline opacity-50">
-    <span class="text-sm">v2023-11-15</span>
+    <span class="text-xs">
+        (c) 2023 Lukas Tietenberg,
+        <a href="https://sourcefranke.github.io/be_social_license/">Be Social License (v1)</a> -
+        v2023-11-15
+    </span>
     <a href="https://github.com/sourcefranke/learning-logs-presentation" target="_blank" alt="GitHub"
         class="text-xl slidev-icon-btn !border-none !hover:text-white">
         <carbon-logo-github />
