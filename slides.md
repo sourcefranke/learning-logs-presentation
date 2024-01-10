@@ -19,17 +19,15 @@ How to handle so many interesting topics coming in
   </span>
 </div>
 
-<div class="abs-br m-6 flex gap-2">
-  <a href="https://github.com/sourcefranke/learning-logs-presentation" target="_blank" alt="GitHub"
-    class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
-    <carbon-logo-github />
-  </a>
+<div class="abs-br m-6 flex gap-2 items-baseline opacity-50">
+    <span class="text-sm">v2023-11-15</span>
+    <a href="https://github.com/sourcefranke/learning-logs-presentation" target="_blank" alt="GitHub"
+        class="text-xl slidev-icon-btn !border-none !hover:text-white">
+        <carbon-logo-github />
+    </a>
 </div>
 
 
-
----
-layout: default
 ---
 
 # Issue
@@ -51,9 +49,6 @@ flowchart TD
 </div>
 
 
-
----
-layout: default
 ---
 
 # Process
@@ -68,9 +63,6 @@ flowchart LR
 ```
 
 
-
----
-layout: default
 ---
 
 # Backlog
@@ -84,9 +76,6 @@ It all started with an Excel sheet ...
 | Spock Framework | Meetup         | 2021/8/12      | 4            | Work project           | Direct use for daily work | Entered    | Write Unit tests more efficiently       |
 
 
-
----
-layout: default
 ---
 
 # Personal Connection
@@ -96,9 +85,6 @@ layout: default
 </div>
 
 
-
----
-layout: default
 ---
 
 # Outcome
@@ -124,9 +110,6 @@ mindmap
 </div>
 
 
-
----
-layout: default
 ---
 
 # Status
@@ -145,7 +128,6 @@ flowchart LR
 </div>
 
 
-
 ---
 layout: image-right
 image: explosion.png
@@ -157,38 +139,8 @@ class: justify-center
 <img v-click src="https://www.preisparadies.ch/images/source/Uhren/24Stundenuhr/Wanduhr24Stunden.jpg">
 
 
-
 ---
 layout: end
 ---
 
 # Let's discuss!
-
-
-
----
-layout: default
----
-
-# DATEV DigiCamp @ 2023/11/15
-
-Discussion Points
-
-- Getting Thing Done (GTD)
-- Gongbang
-
-## Verbindlichkeit schaffen
-- Peer Meetings, Learning Circles
-- Study Time Youtube Videos
-
-
-
----
-layout: default
----
-
-# DATEV DigiCamp @ 2023/11/16
-
-Discussion points
-
-"Obsidian", ein Tool als Alternative zu Excel: https://obsidian.md/
