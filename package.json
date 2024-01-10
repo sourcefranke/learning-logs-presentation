@@ -3,11 +3,11 @@
   "private": true,
   "scripts": {
     "build": "slidev build",
-    "dev": "slidev --open",
+    "dev": "slidev",
     "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "^0.43.7",
-    "@slidev/theme-seriph": "^0.21.3"
+    "@slidev/cli": "latest",
+    "@slidev/theme-seriph": "latest"
   }
 }
